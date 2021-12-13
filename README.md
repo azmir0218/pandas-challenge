@@ -5,6 +5,9 @@ Congratulations! After a lot of hard work in the data wrangling mines, you've la
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
 
+## Objective
+Analyze the data of a fantasy game Heroes of Pymoli for an independent gaming company. Like many games this game is free-to-play but we will be analyzing optional items that players have purchased to enhance their playing experience. One of the tasks will be to  generate a report that breaks down the game's purchasing data into meaningful insight.
+
 Your final report should include each of the following:
 
 ### Player Count
@@ -74,9 +77,7 @@ Your final report should include each of the following:
   * Item Price
   * Total Purchase Value
 
-As final considerations:
 
-* You must use the Pandas Library and the Jupyter Notebook.
-* You must submit a link to your Github/Git Lab repo that contains your Jupyter Notebook.
-* You must include a written description of three observable trends based on the data.
-* See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
+
+
+
