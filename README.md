@@ -77,6 +77,9 @@ Your final report should include each of the following:
   * Item Price
   * Total Purchase Value
 
+## Tools used
+Pandas, Jupyter notebook
+
 
 
 
