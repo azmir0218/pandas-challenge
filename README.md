@@ -1,14 +1,10 @@
 # pandas-challenge
 
 ## Heroes of Pymoli
-Congratulations! After a lot of hard work in the data wrangling mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
-
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
+Analyze the data of Heroes of Pymoli. Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, we will generate a report that breaks down the game's purchasing data into meaningful insights.
 
 ## Objective
-Analyze the data of a fantasy game Heroes of Pymoli for an independent gaming company. Like many games this game is free-to-play but we will be analyzing optional items that players have purchased to enhance their playing experience. One of the tasks will be to  generate a report that breaks down the game's purchasing data into meaningful insight.
-
-Your final report should include each of the following:
+The final report should include each of the following:
 
 ### Player Count
 
@@ -53,7 +49,7 @@ Your final report should include each of the following:
 
 ### Top Spenders
 
-* Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+* Identified the the top 5 spenders in the game by total purchase value, then listed (in a table):
   * SN
   * Purchase Count
   * Average Purchase Price
@@ -61,7 +57,7 @@ Your final report should include each of the following:
 
 ### Most Popular Items
 
-* Identify the 5 most popular items by purchase count, then list (in a table):
+* Identified the 5 most popular items by purchase count, then listed (in a table):
   * Item ID
   * Item Name
   * Purchase Count
@@ -70,7 +66,7 @@ Your final report should include each of the following:
 
 ### Most Profitable Items
 
-* Identify the 5 most profitable items by total purchase value, then list (in a table):
+* Identified the 5 most profitable items by total purchase value, then listed (in a table):
   * Item ID
   * Item Name
   * Purchase Count
